@@ -14,10 +14,16 @@ Este repositôrio é uma agredador de meus estudos em Machine Learning
     source .modules/bin/activate
 ```
 
-### Instalar pendências 
+### Instalar dependências 
 ```shell
     pip install -r requirements.txt
 ```
+
+### Instalar Jupter Notebook
+```shell
+    python3 -m pip install jupyter
+```
+>Instalar extensão de [autocomplete][1]
 
 ### Salvar dependências
 ```shell
@@ -30,3 +36,5 @@ Este repositôrio é uma agredador de meus estudos em Machine Learning
 [Machine Learning - Introdução à classificação](https://www.amazon.com.br/Machine-Learning-Introdu%C3%A7%C3%A3o-%C3%A0-classifica%C3%A7%C3%A3o-ebook/dp/B076MFC96R/ref=sr_1_1?keywords=Machine-Learning-Introdu%C3%A7%C3%A3o-%C3%A0-classifica%C3%A7%C3%A3o&qid=1572619638&sr=8-1)
 
 [Data Science do Zero: Primeiras regras com o Python](https://www.amazon.com.br/Data-Science-Zero-Primeiras-regras-ebook/dp/B07HQXCTKC/ref=cm_cr_arp_d_product_top?ie=UTF8)
+
+[1]: <https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html> "nbextensions"
