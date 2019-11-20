@@ -1,2 +1,8 @@
+#pip packages
 .modules
+
+#Visual Studio Code
 .vscode
+
+#Jupyter Notebook
+.ipynb_checkpoints
